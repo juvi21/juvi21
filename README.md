@@ -3,5 +3,5 @@ If you believe there's a paper, problem, or project, especially in the domains o
 
 
 ## Currently Featured
-#### Will rotate a lot. Currently this gained some traction on reddit and is quite fun. Try it if you want :) 
+#### Will rotate a lot. Currently this gained some traction on reddit and is quite fun.
 [Betterwords.lol](https://betterwords.lol)

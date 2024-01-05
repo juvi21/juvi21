@@ -14,5 +14,6 @@ If you believe there's a paper, problem, or project, especially in the domains o
 - **progressive-neural-architecture-search-torch** Unofficial PyTorch implementation of Progressive Neural Architecture Search. https://arxiv.org/pdf/1712.00559.pdf
 
 ### MISC
-- **llama.jl** Inference Llama 2 in one file of pure C. Nahh wait, now fresh in Julia! 
+- **llama.jl** Inference Llama 2 in one file of pure C. Nahh wait, now fresh in Julia!
+- **lean-math-proofs**: Me playing around with lean and pushing proofs that I consider worth sharing.
 

@@ -7,7 +7,6 @@ If you believe there's a paper, problem, or project, especially in the domains o
 - [Betterwords.lol](https://betterwords.lol)
 
 ### Implemented papers
-- **cudatiger** An accelerated implementation of the Tiger optimizer for PyTorch, supercharged with Triton for enhanced CUDA GPU efficiency. More Memory efficient than Adam. https://kexue.fm/archives/9512
 - **tinyfep** A simplified and abstracted rendition of FEP+ (Free Energy Perturbation) for molecular simulations. https://www.schrodinger.com/products/fep
 
 

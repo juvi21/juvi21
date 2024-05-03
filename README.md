@@ -6,7 +6,7 @@ If you believe there's a paper, problem, or project, especially in the domains o
 #### Will rotate a lot. Currently this gained some traction on reddit and is quite fun.
 - [Betterwords.lol](https://betterwords.lol)
 
-### Implemented papers
+### Implemented "papers" concepts
 - **tinyfep** A simplified and abstracted rendition of FEP+ (Free Energy Perturbation) for molecular simulations. https://www.schrodinger.com/products/fep
 
 

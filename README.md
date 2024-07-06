@@ -11,5 +11,9 @@ If you believe there's a paper, problem, or project, especially in the domains o
 - **tinyfep** A simplified and abstracted rendition of FEP+ (Free Energy Perturbation) for molecular simulations. https://www.schrodinger.com/products/fep
 
 ### Models
-- [juvi21/Hermes-2.5-Yi-1.5-9B-Chat](https://huggingface.co/juvi21/Hermes-2.5-Yi-1.5-9B-Chat) with GGUF and Quantization. Outperforms many models in it's class on AGIEval. More details in the model-card.
-- [juvi21/Hermes-2-Pro-Mistral-7B-infinity](https://huggingface.co/juvi21/Hermes-2-Pro-Mistral-7B-infinity) with GGUF and Quantization. More details in the model-card.
+- **[juvi21/Hermes-2.5-Yi-1.5-9B-Chat](https://huggingface.co/juvi21/Hermes-2.5-Yi-1.5-9B-Chat)** with GGUF and Quantization. Outperforms many models in it's class on AGIEval. More details in the model-card.
+- **[juvi21/Hermes-2-Pro-Mistral-7B-infinity](https://huggingface.co/juvi21/Hermes-2-Pro-Mistral-7B-infinity)** with GGUF and Quantization. More details in the model-card.
+
+
+### Datasets
+- **[cses-fi-competitive-coding-problems](https://huggingface.co/datasets/juvi21/cses-fi-competitive-coding-problems)** Highly representative set of competitive coding problems from cses.fi in a nice dataformat.

@@ -9,6 +9,7 @@ If you believe there's a paper, problem, or project, especially in the domains o
 - **nngdb**  An terminal based neural-network Interpretability-tool that feels like gdb
 - **cudatiger** An accelerated implementation of the Tiger optimizer for PyTorch, supercharged with Triton for enhanced CUDA GPU efficiency. More Memory efficient than Adam. https://kexue.fm/archives/9512
 - **tinyfep** A simplified and abstracted rendition of FEP+ (Free Energy Perturbation) for molecular simulations. https://www.schrodinger.com/products/fep
+- **betterwords.lol** Expand human vocabulary with gpt-3.5-turbo or finetuned llama-2 [link](https://www.betterwords.lol/)
 
 ### Models
 - **[juvi21/Hermes-2.5-Yi-1.5-9B-Chat](https://huggingface.co/juvi21/Hermes-2.5-Yi-1.5-9B-Chat)** with GGUF and Quantization. Outperforms many models in it's class on AGIEval. More details in the model-card.

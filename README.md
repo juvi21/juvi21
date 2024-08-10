@@ -13,7 +13,7 @@ If you believe there's a paper, problem, or project, especially in the domains o
 - **betterwords.lol** Expand human vocabulary with gpt-3.5-turbo or finetuned llama-2 in React [link](https://www.betterwords.lol/)
 
 ### Models
--**[juvi21/Kumiho-V1-rp-UWU-8B-GGUF](https://huggingface.co/juvi21/Kumiho-V1-rp-UwU-8B-GGUF) An intelligent roleplay model finetuned mostly on llama-3.1 paper inspired synthetic claude-3.5-sonnet data.
+- **[juvi21/Kumiho-V1-rp-UWU-8B-GGUF](https://huggingface.co/juvi21/Kumiho-V1-rp-UwU-8B-GGUF) An intelligent roleplay model finetuned mostly on llama-3.1 paper inspired synthetic claude-3.5-sonnet data.
 - **[juvi21/Hermes-2.5-Yi-1.5-9B-Chat](https://huggingface.co/juvi21/Hermes-2.5-Yi-1.5-9B-Chat)** with GGUF and Quantization. Outperforms many models in it's class on AGIEval. More details in the model-card.
 - **[juvi21/Hermes-2-Pro-Mistral-7B-infinity](https://huggingface.co/juvi21/Hermes-2-Pro-Mistral-7B-infinity)** with GGUF and Quantization. More details in the model-card.
 

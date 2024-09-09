@@ -10,7 +10,7 @@ If you believe there's a paper, problem, or project, especially in the domains o
 - **nngdb**  An terminal based neural-network Interpretability-tool that feels like gdb [repo](https://github.com/juvi21/nngdb)
 - **cudatiger** An accelerated implementation of the Tiger optimizer for PyTorch, supercharged with Triton for enhanced CUDA GPU efficiency. More Memory efficient than Adam. https://kexue.fm/archives/9512 [repo](https://github.com/juvi21/cudatiger)
 - **tinyfep** A simplified and abstracted rendition of FEP+ (Free Energy Perturbation) for molecular simulations. https://www.schrodinger.com/products/fep [repo](https://github.com/juvi21/tinyfep)
-- **betterwords.lol** Expand human vocabulary with gpt-3.5-turbo or finetuned llama-2 in React [link](https://www.betterwords.lol/)
+- **betterwords.lol** Expand human vocabulary with gpt-3.5-turbo or finetuned llama-2 in React [link](https://betterwords.vercel.app/)
 
 ### Models
 - **[juvi21/Kumiho-V1-rp-UWU-8B-GGUF](https://huggingface.co/juvi21/Kumiho-V1-rp-UwU-8B-GGUF)** An intelligent roleplay model finetuned mostly on llama-3.1 paper inspired synthetic claude-3.5-sonnet data.

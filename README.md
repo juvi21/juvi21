@@ -3,6 +3,7 @@ If you believe there's a paper, problem, or project, especially in the domains o
 
 
 ### Projects 
+- **toploc Contribution** Made the core algorithm powering toploc 70x faster.
 - **self-compressing-nn-jax** JAX Implementation of the paper https://arxiv.org/pdf/2301.13142 ported from gehots tinygrad version. [repo](https://github.com/juvi21/self-compressing-nn-jax)
 - **llama.jl** Inference Llama 2 in one file of pure C. Nahh wait, now fresh in Julia! [repo](https://github.com/juvi21/llama2.jl)
 - **CoPE-cuda** Contextual Position Encoding but with some custom CUDA Kernels https://arxiv.org/abs/2405.18719 [repo](https://github.com/juvi21/CoPE-cuda)

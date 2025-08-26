@@ -4,6 +4,7 @@
 ### Projects 
 - **toploc Contribution** Made the core algorithm powering toploc 70x faster.
 - **self-compressing-nn-jax** JAX Implementation of the paper https://arxiv.org/pdf/2301.13142 ported from gehots tinygrad version. [repo](https://github.com/juvi21/self-compressing-nn-jax)
+- **whale-MLA-triton** Implementing multi-latent-attention DeepSeek style in torch and triton and comparing performance.  [repo] https://github.com/juvi21/whale-MLA-triton
 - **llama.jl** Inference Llama 2 in one file of pure C. Nahh wait, now fresh in Julia! [repo](https://github.com/juvi21/llama2.jl)
 - **CoPE-cuda** Contextual Position Encoding but with some custom CUDA Kernels https://arxiv.org/abs/2405.18719 [repo](https://github.com/juvi21/CoPE-cuda)
 - **Competitive-Coding-Benchmark** Benchmark LLMs against a set of high quality representative competitive coding problems sourced from cses.fi [repo](https://github.com/juvi21/Competitive-Coding-Benchmark)
